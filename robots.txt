@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sergioruocco.github.io/sitemap.xml
+Sitemap: https://sergioruocco.github.io/cv/sitemap.xml
